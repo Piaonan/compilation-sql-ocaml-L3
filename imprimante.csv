@@ -1,0 +1,9 @@
+modele(INT)|type(VARCHAR)|couleur(VARCHAR)|prix(INT)
+3001|laser|oui|250
+3002|jet d'encre|oui|150
+3003|laser|non|100
+3004|laser|non|90
+3005|multifonction|non|350
+3006|jet d'encre|oui|120
+3007|laser|oui|230
+3008|multifonction|oui|450
